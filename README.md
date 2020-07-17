@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Tathagat Thapliyal, a Full Stack Developer 🚀 from India, currently, I'm a Software Engineer at 🙍🏽‍♂️ [@CodingBlocks](https://github.com/coding-blocks/). I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. Beside's programming, I enjoy playing CS:GO and Cricket.
+Hi, I'm Tathagat Thapliyal, a Full Stack Developer 🚀 from India, currently, I'm a Software Engineer at 🙍🏽‍♂️ [@CodingBlocks](https://github.com/coding-blocks/). I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. Beside's engineering, I enjoy playing CS:GO and Cricket.
 
 <br/>
 <br/>
