@@ -22,8 +22,8 @@ Hi, I'm Tathagat Thapliyal, a Full Stack Developer 🚀 from India, currently, I
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 Currently working with ReactJs, Redux, React-Native, GraphQl, NodeJs, Typescript, Javascript; 
-- 👯 I’m looking to collaborate on kick ass products;
+- 🛠 Currently working with ReactJs, Redux, React-Native, GraphQl, NodeJs, Typescript, Javascript; 
+- 👨🏻‍💻 I’m looking to collaborate on kick ass products;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
 - 📫 How to reach me: tathagat.thapliyal@gmail.com;
