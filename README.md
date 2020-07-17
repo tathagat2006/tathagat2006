@@ -10,12 +10,12 @@
 <br />
 <br />
 
-Hi, I'm Tathagat Thapliyal, a Full Stack Developer 🚀 from India, currently, I'm a Software Engineer at 🙍🏽‍♂️ [@CodingBlocksIn](https://codingblocks.com). I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for languages. Beside's programming, I enjoy playing CS:GO and Cricket.
+Hi, I'm Tathagat Thapliyal, a Full Stack Developer 🚀 from India, currently, I'm a Software Engineer at 🙍🏽‍♂️ [@CodingBlocksIn](https://github.com/coding-blocks/). I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for languages. Beside's programming, I enjoy playing CS:GO and Cricket.
 
 <br/>
 <br/>
 
-  <img align="right" height="300" width="500" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+  <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 **Talking about Personal Stuffs:**
 
